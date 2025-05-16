@@ -1,36 +1,36 @@
 # 👋 Hi, I'm Aryacahil!
 
-Saya adalah developer yang suka membangun sistem backend, automation, dan tools yang bermanfaat. Saat ini aktif mengembangkan aplikasi Frappe dan beberapa proyek open source.
+I'm a developer passionate about building backend systems, automation, and useful tools. Currently focused on Frappe development and contributing to several open-source projects.
 
 ---
 
 ## 🔧 Tech Stack
 
-- 💻 Python, JavaScript
-- ⚙️ Frappe / ERPNext
-- 🧰 Git, Docker, REST API
+- 💻 Python, JavaScript  
+- ⚙️ Frappe / ERPNext  
+- 🧰 Git, Docker, REST API  
 
 ---
 
-## 🚀 Proyek Aktif
+## 🚀 Active Projects
 
-- [CustomApp](https://github.com/username/CustomApp): Fitur approval role berbasis Frappe
-- [RandomGames](https://github.com/username/RandomGames): Website game kasual HTML5
-
----
-
-## 📫 Kontak
-
-- 📧 your.email@example.com
-- 🌐 yourwebsite.com
-- 💼 [LinkedIn](https://linkedin.com/in/username)
+- [Sidebar Menu Builder](https://github.com/aryacahil/sidebar_menu): A drag-and-drop sidebar menu builder for Frappe  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=default)
+## 📫 Contact
+
+- 📧 campgreget@gmail.com
+- 🌐 https://aryacahil.dev 
+- 💼 [LinkedIn](https://linkedin.com/in/aryacahil)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryacahil&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryacahil&layout=compact&theme=default)  
 
 ---
 
 > Made with ❤️ using [Frappe](https://frappe.io) and GitHub.
-
