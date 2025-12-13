@@ -7,17 +7,17 @@ Currently focused on **Frappe**, **Laravel**, and exploring **Flutter** for mobi
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working with **Frappe / ERPNext**  
-- 🌱 Learning **Flutter** to expand into mobile development  
-- ⚙️ Love using **Git** & **Docker** for better workflow and deployment  
-- 💡 Interested in backend architecture and automation systems  
+- 🔭 Currently working with **Frappe / ERPNext**
+- 🌱 Learning **Flutter** to expand into mobile development
+- ⚙️ Enjoy using **Git** & **Docker** for efficient development and deployment
+- 💡 Interested in backend architecture, automation systems, and scalable applications
 
 ---
 
 ## 🔧 Tech Stack
 
 | Category | Tools |
-|-----------|--------|
+|--------|-------|
 | 💻 **Languages** | Python, PHP, JavaScript, Dart |
 | ⚙️ **Frameworks** | Frappe / ERPNext, Laravel, Flutter |
 | 🧰 **Tools** | Git, Docker |
@@ -27,8 +27,12 @@ Currently focused on **Frappe**, **Laravel**, and exploring **Flutter** for mobi
 
 ## 🚀 Active Projects
 
+- [**Sipena — QR Code Based Student Attendance System**](https://github.com/aryacahil/sipena-aplikasi-web-absensi-siswa-qr-code.git)  
+  → A web-based student attendance system built with **Laravel 10**, featuring **QR Code attendance**, **geolocation validation**, **real-time monitoring**, and **automatic WhatsApp notifications**.
+
 - [**Sidebar Menu Builder**](https://github.com/aryacahil/sidebar_menu)  
-  → A drag-and-drop sidebar menu builder for Frappe.
+  → A drag-and-drop sidebar menu builder for **Frappe / ERPNext**.
+
 ---
 
 ## 📫 Contact Me
